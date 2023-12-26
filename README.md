@@ -17,7 +17,7 @@
 <a href="#"><img alt="JS" src="https://camo.githubusercontent.com/7a48ad3028bc23b33e755e555609a4ccdd3ba1ef6fb92aa2214eea10e3b7e184/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
 <a href="#"><img alt="Boostrap" src="https://camo.githubusercontent.com/b68dc0af77c193b22b0d54d3ca43fe4cba63bbf84d1030963a9d3a8cbd0e477a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f266c6f676f3d626f6f747374726170" data-canonical-src="https://img.shields.io/badge/-Bootstrap-563D7C?&amp;logo=bootstrap" style="max-width: 100%;"></a>
 <a href="#"><img alt="NodeJS" src="https://camo.githubusercontent.com/dca30f830fde29e22db0edab30fb7c5a36fb374d489e1763b60ebda154687fba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732532302d2532333433383533442e7376673f6c6f676f3d6e6f64652d646f742d6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="#"><img alt="PHP" src="https://camo.githubusercontent.com/7a1987d62d737e2636498d618d2c32c07896f8a9ec6c9a6aebf7fe9cd3ac054d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d2532333737374242342e7376673f6c6f676f3d706870266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&amp;logoColor=white" style="max-width: 100%;"></a></p>
+</p>
 
 
 <hr>
