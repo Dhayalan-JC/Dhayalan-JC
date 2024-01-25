@@ -12,7 +12,7 @@
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on  <a href="http://wohlig.com/" rel="nofollow">wohlig.com</a>, <a href="https://www.youtube.com/channel/UCiPpjfWaWpSibmc8Y_JgSPQ" rel="nofollow">Explore India</a></li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning everything <g-emoji class="g-emoji" alias="rofl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f923.png">🤣</g-emoji></li>
 <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate with other content creators</li>
-<li><g-emoji class="g-emoji" alias="goal_net" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png">🥅</g-emoji> 2022 Goals: Contribute more to Open Source projects</li>
+<li><g-emoji class="g-emoji" alias="goal_net" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png">🥅</g-emoji> 2023 Goals: Contribute more to Open Source projects</li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact: I love to read &amp; coding</li>
 </ul>
 </article>
