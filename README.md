@@ -9,7 +9,8 @@
 <!--   https://cdn.pixabay.com/photo/2020/10/19/13/42/boy-5667870_1280.png -->
 <!--   https://e6.pngbyte.com/pngpicture/246562/png-Cartoon-Tigers-Png-Transparent-Png-Download-baby-tiger-tigre-life-autocollant-baby-tiger_thumbnail.png -->
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on  <a href="http://wohlig.com/" rel="nofollow">wohlig.com</a>, <a href="https://www.youtube.com/channel/UCiPpjfWaWpSibmc8Y_JgSPQ" rel="nofollow">Explore India</a></li>
+<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on  <a href="http://wohlig.com/" rel="nofollow">wohlig.com</a>, 
+<!-- <a href="https://www.youtube.com/channel/UCiPpjfWaWpSibmc8Y_JgSPQ" rel="nofollow">Explore India</a> --></li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning everything <g-emoji class="g-emoji" alias="rofl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f923.png">🤣</g-emoji></li>
 <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate with other content creators</li>
 <li><g-emoji class="g-emoji" alias="goal_net" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png">🥅</g-emoji> 2023 Goals: Contribute more to Open Source projects</li>
